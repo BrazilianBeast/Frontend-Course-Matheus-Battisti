@@ -16,6 +16,15 @@ Projects created during the **Matheus Battisti's frontend course**
 Cloudy host is a landing page of a hosting webpage with fully responsive design designed for both desktops, tablets and smartphones
 
 <p align="left">
-  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/0-desktop.png?raw=true" width="600" />
-  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/1-mobile.png?raw=true" width="132"/> 
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/01_desktop.png?raw=true" width="600" />
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/01_mobile.png?raw=true" width="132"/> 
+</p>
+
+### Instagram Clone
+
+A responsive clone of Instagram's login page,made to practice css concepts
+
+<p align="left">
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/02_instagram_clone_desktop.png?raw=true" width="600" />
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/02_instagram_clone_mobile.png?raw=true" width="132"/> 
 </p>
