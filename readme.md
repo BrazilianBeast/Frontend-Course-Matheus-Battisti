@@ -28,3 +28,12 @@ A responsive clone of Instagram's login page,made to practice css concepts
   <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/02_instagram_clone_desktop.png?raw=true" width="600" />
   <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/02_instagram_clone_mobile.png?raw=true" width="132"/> 
 </p>
+
+### Instagram Clone
+
+A responsive blog,made to practice semantic html5 concepts and resposivity with css flex
+
+<p align="left">
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/03_semantic_blog_desktop.png?raw=true" width="600" />
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/03_semantic_blog_mobile.png?raw=true" width="132"/> 
+</p>
