@@ -37,3 +37,21 @@ A responsive blog,made to practice semantic HTML5 concepts and resposivity with 
   <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/03_semantic_blog_desktop.png?raw=true" width="600" />
   <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/03_semantic_blog_mobile.png?raw=true" width="132"/> 
 </p>
+
+### Multiplication Table
+
+A responsive website,made to practice semantic HTML5 concepts and vanilla JS, where you can discover the multiplication table for the desired number.
+
+<p align="left">
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/04_multiplication_table_desktop.png?raw=true" width="600" />
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/04_multiplication_table_mobile.png?raw=true" width="132"/> 
+</p>
+
+### QR Code Generator
+
+A responsive website,made to practice semantic HTML5 concepts and vanilla JS, where you can discover the QR Code Generator for a given URL or text.
+
+<p align="left">
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/05_qr_code_generator_desktop.png?raw=true" width="600" />
+  <img src="https://github.com/BrazillianBeast/Frontend-Course-Matheus-Battisti/blob/master/mocks/05_qr_code_generator_mobile.png?raw=true" width="132"/> 
+</p>
